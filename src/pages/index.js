@@ -157,7 +157,7 @@ export default function Home() {
         <div className="flex gap-8 justify-center text-center">{weather}</div>
         <div className="flex justify-between w-full bg-[#128CBA] py-4 items-center gap-2 px-14">
           <p className="text-center text-lg text-[#fff]">By - Ishan Sachdeva</p>
-          <Link href="https://github.com/Ishan-sa" target="_blank">
+          <Link href="https://github.com/Ishan-sa/celsiusly" target="_blank">
             <Image
               src="/github.svg"
               width={25}
