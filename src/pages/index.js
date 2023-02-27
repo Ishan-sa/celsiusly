@@ -122,9 +122,9 @@ export default function Home() {
   };
 
   useEffect(() => {
-    if (grabbedWeather.current === true) {
-      getWeather();
-    }
+    // if (grabbedWeather.current === true) {
+    getWeather();
+    // }
     return () => {
       grabbedWeather.current = true;
     };
