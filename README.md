@@ -18,4 +18,4 @@ A simple weather app for Vancouver, BC, built using openweathermap API.
 
 ## Images
 
-![Screenshot](/screeenshot-1.png)
+![Screenshot](/public/screenshot-1.png)
